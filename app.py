@@ -8,7 +8,8 @@ SYSTEM_INSTRUCTION = "You are a Business Email Risk Assistant.\n" + \
                      "2. Risk Type (Tone, Legal, Compliance, Clarity)\n" + \
                      "3. Suggested Rewrite\n\n" + \
                      "Format output as:\n" + \
-                     "[Assessment]: \n[Type]: \n[Rewrite]:"
+                     "[Assessment]: \n[Type]: \n[Rewrite]:\n" + \
+                     "[Risk Level]: \n"
 
 def run_workflow(email_text):
     
