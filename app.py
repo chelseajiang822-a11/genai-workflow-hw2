@@ -29,7 +29,7 @@ def run_workflow(email_text):
     return "All model names have failed attempts. Please check the API Key permissions or network."
 
 if __name__ == "__main__":
-    # 3. 评估集
+    # 3. evaluation
     eval_set = [
         "Hi team, please review the attached document.",
         "This is unacceptable. You clearly didn’t do your job.",
