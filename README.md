@@ -25,3 +25,5 @@ This task is valuable to automate because:
 - It reduces communication risk in organizations
 - It improves professionalism and consistency
 - It helps prevent legal or reputational issues
+
+## video link: <https://youtu.be/KMD_Td20WM0>
